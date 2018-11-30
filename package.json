@@ -24,7 +24,6 @@
     "babel-preset-es2015": "^6.24.1",
     "cors-buster": "^2.0.2",
     "webpack": "^4.26.1",
-    "webpack-cli": "^3.1.2",
-    "webpack-command": "^0.3.0"
+    "webpack-cli": "^3.1.2"
   }
 }
